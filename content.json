@@ -1,6 +1,7 @@
 {
     "algemeen": {
-        "jaar_van_datacollectie": 2013
+        "jaar_van_datacollectie": 2013,
+        "creatiedatum_van_klinische_file": "Thu Jun 05 2014 00:00:00 GMT+0200 (CEST)"
     },
     "patientgegevens": {
         "geslacht": {
@@ -14,7 +15,8 @@
         "geboortedatum": "Fri Oct 01 1999 00:00:00 GMT+0200 (CEST)",
         "datum_van_de_eerste_insulinetoediening": "Wed Dec 04 2013 00:00:00 GMT+0100 (CET)",
         "naam": "Doe",
-        "voornaam": "John"
+        "voornaam": "John",
+        "patient_niss": 99100126383
     },
     "datacollectie": {
         "algemeen": {
