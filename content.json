@@ -1,1 +1,61 @@
-{}
+{
+    "algemeen": {
+        "jaar_van_datacollectie": 2013
+    },
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "Man"
+        },
+        "overlijden": {
+            "selectedChoices": {}
+        },
+        "etniciteit_vader": {},
+        "etniciteit_moeder": {},
+        "geboortedatum": "Fri Oct 01 1999 00:00:00 GMT+0200 (CEST)",
+        "datum_van_de_eerste_insulinetoediening": "Wed Dec 04 2013 00:00:00 GMT+0100 (CET)",
+        "naam": "Doe",
+        "voornaam": "John"
+    },
+    "datacollectie": {
+        "algemeen": {
+            "taalproblemen": {
+                "selectedChoices": {}
+            },
+            "puberteitprepuberteit": {},
+            "insulineschema": {},
+            "datum_van_de_meest_recente_consultatie": "Wed Dec 04 2013 00:00:00 GMT+0100 (CET)"
+        },
+        "metingen": {
+            "lengte": {},
+            "gewicht": {},
+            "bloeddruk": {},
+            "hba1c": {}
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {}
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreoidie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
+        }
+    }
+}
