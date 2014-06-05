@@ -30,7 +30,10 @@
         "metingen": {
             "lengte": {},
             "gewicht": {},
-            "bloeddruk": {},
+            "bloeddruk": {
+                "systolische_bloeddruk_mmhg": 120,
+                "diastolische_bloeddruk_mmhg": 100
+            },
             "hba1c": {}
         },
         "screenings": {
